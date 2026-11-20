@@ -1,0 +1,8 @@
+{
+  "facility": {"name":"Harbor House Hotel","account":"HH-2048","site":"Loading Dock B · Portland, ME","approval_limit":900},
+  "items": [
+    {"qr_code":"ST-LINER-55","name":"55-gal can liners","vendor_sku":"JSP-CL55-BLK","category":"Janitorial","stock":1,"reorder_point":3,"units_per_pack":100,"unit_price":68.5,"max_packs":8},
+    {"qr_code":"ST-TOWEL-MF","name":"Microfiber towel case","vendor_sku":"JSP-MF12-BLU","category":"Housekeeping","stock":0,"reorder_point":2,"units_per_pack":120,"unit_price":54,"max_packs":10},
+    {"qr_code":"ST-GLOVE-M","name":"Nitrile gloves · medium","vendor_sku":"JSP-NG-M-10","category":"Safety","stock":2,"reorder_point":4,"units_per_pack":1000,"unit_price":92.25,"max_packs":6}
+  ]
+}
